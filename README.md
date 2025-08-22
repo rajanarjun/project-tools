@@ -1,8 +1,8 @@
-## project tools
+# project-tools
 
 scripts that improve and automate my workflow..
 
-#### intiproj
+## intiproj
 bash script that initializes a tmux session the way I like it when I want to start working on a project, I dont have to manually create tmux session, windows, etc
 
 - creates a tmux session with session name as the project name and 3 windows
